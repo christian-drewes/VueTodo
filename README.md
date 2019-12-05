@@ -1,2 +1,0 @@
-# VueTodo
-Created with CodeSandbox
